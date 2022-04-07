@@ -17,6 +17,9 @@ Visit the [releases](https://github.com/KEA12/RobloxFullScreenOptimizer/releases
 - (Optional) Press Shift + F5 to view your ingame FPS, use this to monitor if you are achieving FPS improvements or not. If not, don't use this.
 - (Optional) You can pair this with [Roblox FPS unlocker](https://github.com/axstin/rbxfpsunlocker/releases) to go above 60 FPS (Please note to follow the Games rules you intend to use this on.)
 
+### Windows Defender / x Antivirus is flagging this as unsafe, is this true?
+If windows defender or any other Antivirus is flagging it as unsafe or as a Threat, you can ignore it and continue with installation. You're free to not use this if you don't trust an open source application (somehow)
+
 ### Is this against Roblox ToS?
 No. This is a Roblox feature shipped with the Client. It follows the Roblox rules, and should follow game rules aswell
 
