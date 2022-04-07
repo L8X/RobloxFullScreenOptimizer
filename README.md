@@ -22,3 +22,6 @@ No. This is a Roblox feature shipped with the Client. It follows the Roblox rule
 
 ### I'm getting worse performance/screen tearing, help!
 It's best to not use this then. Run the uninstaller included in the package. This works differently for everyone since we all don't share the same PC Setups, hence why this is disabled by default on the Roblox client. 
+
+### I'm still having issues after Uninstalling.
+Reinstall the Roblox client. There shouldn't be any issues after uninstalling, however if there are, reinstalling the Roblox client should fix it
