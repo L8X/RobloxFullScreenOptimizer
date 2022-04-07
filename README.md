@@ -3,6 +3,9 @@
 ## Roblox Fullscreen Optimizer allows your Roblox client to enter a state called "True Fullscreen". 
 Roblox by default only runs with a borderless window instead of an actual fullscreen, often times leaving behind performance and generating input lag. This small program fixes this. It will modify your Client Settings to disable a certain flag to allow for True fullscreen to be applied.
 
+### How can I download it?
+Visit the [releases](https://github.com/KEA12/RobloxFullScreenOptimizer/releases) page here and download the latest Version. Unzip it and run the `RobloxFullScreenOptimizer.exe` and you're good to go!
+
 ### What does it do?
 - It will create a new folder inside your Roblox game directory named ClientSettings
 - Inside this Folder a new json file named ClientAppSettings will be added, with the following data: `{"FFlagHandleAltEnterFullscreenManually": "False"}`
