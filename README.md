@@ -13,7 +13,7 @@ Visit the [releases](https://github.com/KEA12/RobloxFullScreenOptimizer/releases
 
 ### How do i apply it?
 - Once installed, enter any Roblox game and make sure you are running the game in Fullscreen mode, otherwise this will not work
-- After your game is started, you will need to press Alt + Enter to toggle True full screen mode
+- After your game is started, you will need to press Alt + Enter to toggle True full screen mode. You can tell if you are in it by pressinf F11, if you switch to windowed mode then you are NOT in True fullscreen
 - (Optional) Press Shift + F5 to view your ingame FPS, use this to monitor if you are achieving FPS improvements or not. If not, don't use this.
 - (Optional) You can pair this with [Roblox FPS unlocker](https://github.com/axstin/rbxfpsunlocker/releases) to go above 60 FPS (Please note to follow the Games rules you intend to use this on.)
 
